@@ -76,7 +76,7 @@ The analysis includes:
 
 ### Purchase Analysis by Occupation and Gender
 
-![Purchase Analysis](purchase_by_occupation_gender.png)
+![Purchase Analysis](occupation_purchase_analysis.png)
 
 ### Additional Visualizations
 
